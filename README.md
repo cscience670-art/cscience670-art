@@ -20,38 +20,8 @@
 </p>
 
 ---
-
-## 💫 About Me
-
-I am a passionate **Computer Science Student** and **Full-Stack Developer** with a deep interest in artificial intelligence and its real-world applications. As a future AI researcher, I focus on building intelligent systems, training machine learning models, and developing scalable software solutions.
-
-- 🎓 Studying Computer Science.
-- 💻 Building modern web applications and AI-driven software.
-- 🧠 Research interests in **Machine Learning, Deep Learning, Explainable AI (XAI), Computer Vision, and Data Science**.
-- 🚀 Believer in *learning by building real projects*.
-- 📈 Continuously acquiring new knowledge and technologies daily.
-
 ---
 
-## 🚀 Featured Projects
-
-### 💳 [UniPay](https://github.com/Sadek1Amine)
-> **Digital Banking & Financial Management Platform**
-> An advanced digital banking application that enables users to manage their personal finance and transactions.
-- 🔒 **Secure Authentication**: Multi-factor authentication and robust session management.
-- 💸 **Transactions Engine**: Seamless, real-world-like funds transfer and history tracking.
-- 📊 **Dynamic Dashboard**: Full analytics and real-time visualization of account balances and activity.
-- 🤖 **AI Financial Analysis**: Intelligent insights on spending behavior and budget optimization.
-
-### ❄️ [FrostBudget](https://github.com/Sadek1Amine)
-> **Modern Personal Finance Application**
-> A beautifully designed expense tracking and income management tool to keep your budgets on track.
-- 📈 **Expense & Income Tracking**: Quick logging and categorizing of transactions.
-- 📅 **Budget Planning**: Set monthly budgets and track real-time limits.
-- 🎨 **Modern Responsive UI**: Clean, minimal, and fully interactive interface.
-- 🛠️ **Tech Stack**: Built from the ground up using **React**, **TypeScript**, and **Tailwind CSS**.
-
----
 
 ## 🛠️ Tech Stack & Toolkit
 
@@ -115,17 +85,6 @@ I am a passionate **Computer Science Student** and **Full-Stack Developer** with
 <!-- END_SECTION:ascii_graph -->
 
 ---
-
-## 🎯 Goals for 2026
-- 📚 **Publish a research paper** on Machine Learning / Explainable AI (XAI).
-- 💻 **Build and deploy** a robust AI-integrated SaaS application.
-- 🌐 **Deepen knowledge** in Advanced Deep Learning and Computer Vision architectures.
-- 🤝 **Contribute regularly** to open-source packages and projects.
-
-## ⚡ Fun Facts
-- 🔍 My favorite debugger is writing `print()` statements, though I am actively training myself to use real ones!
-- 🧩 I write code to solve problems I face, and then build tools to solve problems other people face.
-- ☕ Powered by caffeine, curiosity, and code.
 
 ---
 
