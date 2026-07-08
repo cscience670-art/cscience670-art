@@ -75,7 +75,16 @@ Currently focusing on:
 
 ---
 
+## ⭐ Featured Projects
 
+### 🏦 UniPay
+Modern digital banking platform built with React, TypeScript, Appwrite, and Node.js.
+
+### ❄️ FrostBudget
+Personal finance and expense tracking application inspired by a winter theme.
+
+### 📚 More Projects
+Explore all repositories below.
 ---
 
 ---
