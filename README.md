@@ -18,6 +18,20 @@
 </p>
 
 ---
+## 🚀 About Me
+
+I'm a Computer Science student from Algeria passionate about building modern web applications, artificial intelligence, and software architecture.
+
+I enjoy designing scalable full-stack applications, solving complex problems, and continuously improving my programming skills.
+
+Currently focusing on:
+
+- Full-Stack Development
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Software Architecture
+- Open Source
+
 ---
 
 
