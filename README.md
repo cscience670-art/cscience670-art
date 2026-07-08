@@ -74,19 +74,13 @@ Currently focusing on:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
 ## ⭐ Featured Projects
 
-### 🏦 UniPay
-Modern digital banking platform built with React, TypeScript, Appwrite, and Node.js.
-
-### ❄️ FrostBudget
-Personal finance and expense tracking application inspired by a winter theme.
-
-### 📚 More Projects
-Explore all repositories below.
----
-
+| Project | Description | Tech |
+|---------|-------------|------|
+| **🏦 UniPay** | Modern digital banking platform with secure account management and transactions. | React • TypeScript • Node.js • Appwrite |
+| **❄️ FrostBudget** | Personal finance and expense tracker with a winter-inspired interface. | React • TypeScript |
+| **📂 More Projects** | Explore all my repositories on GitHub. | Various |
 ---
 
 ## 📫 Connect With Me
